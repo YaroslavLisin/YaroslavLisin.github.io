@@ -1,6 +1,6 @@
 # About me 
 
-* I study in Belarusian State University of Informatics and Radioelectronics.*
+*I study in Belarusian State University of Informatics and Radioelectronics.*
 
 **Personal Summary**
 
