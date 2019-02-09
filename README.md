@@ -9,6 +9,6 @@
 **Skills**
 
  -	*Elementary level c++*
- -	*Communication skills *
+ -	*Communication skills*
  -	*Purposeful person* 
  -	*Driving cars*
